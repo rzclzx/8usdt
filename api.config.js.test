@@ -1,0 +1,38 @@
+export default {
+  // cookie domain
+  domain: '58coin.com',
+  // href domain
+  // 58coin
+  mainDomain: 'http://www.test.58coin.com/',
+  // m站
+  mDomain: 'http://m.test.58coin.com/',
+  // account
+  userDomain: 'http://user.test.58coin.com/',
+  // spot
+  spotDomain: 'http://spot.test.58coin.com/',
+  // hash
+  hashDomain: 'http://hash.test.58coin.com/',
+  // otc
+  otcDomain: 'http://c2c.test.58coin.com/',
+  // swaps
+  swapsDomain: 'http://swap.test.58coin.com/',
+  // future(usdt)
+  futureDomain: 'http://future.test.58coin.com/',
+  // labs
+  labsDomain: 'http://margin.test.58coin.com/',
+  // oldswaps
+  oldswapsDomain: 'http://oldswaps.test.58coin.com/',
+  // loan
+  loanDomain: 'http://mortgageloan.test.58coin.com/',
+  // api
+  baseURL: 'http://api.test.58coin.com/', // 58coin 58spot
+  hashURL: 'http://hashapi.test.58coin.com/', // hash
+  agentURL: 'http://agentapi.test.58coin.com/',  //agent
+  otcURL: 'http://c2capi.test.58coin.com', // otc
+  webSocketURL: 'wss://ws.test.58coin.com:443/websocket', // webSocket
+  zendeskURL: 'http://58coin-support.zendesk.com/',
+  oosImgUrl: 'http://tianbi-test.oss-cn-beijing.aliyuncs.com/',
+  swapsURL: 'http://swapapi.test.58coin.com/', // 58swaps
+  showURL: 'http://192.168.200.55:19006/',
+  futureURL: 'http://futureapi.test.58coin.com/usdt/',
+}

@@ -1,0 +1,25 @@
+{
+  "public": {
+    "signIn": "Вход",
+    "signUp": "Регистрация",
+    "signOut": "Выход",
+    "account": "Аккаунт",
+    "confirm": "Подтверждение",
+    "cancel": "Отмена",
+    "noList": "Нет данных",
+    "upPage": "Пред.стр.",
+    "downPage": "След.стр."
+  },
+  "product": {
+    "otc": " OTC",
+    "spot": "Спот",
+    "hash": "Хеш",
+    "lab": "Маржа",
+    "swap": "Своп",
+    "loan": "Заем"
+  },
+  "layouts": {
+    "error": "Недоступно. Еще {second} мин.",
+    "goDefault": "Вернуться на главную"
+  }
+}
